@@ -6,7 +6,7 @@ I'm Michael, a CS graduate and software engineer based in the Philippines 🇵�
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Technologies I Use
 
 <img align="left" alt="Python" width="30px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
