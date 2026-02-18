@@ -1,6 +1,6 @@
 ## Yo! 👋
 
-**`💻 Software Development · 📊 Data Science · 🤖 Machine Learning / AI`**
+**`Software Development · Data Science · Machine Learning / AI`**
 
 I'm Michael, a CS graduate and software engineer based in the Philippines 🇵🇭
 
